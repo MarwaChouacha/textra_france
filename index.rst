@@ -11,11 +11,11 @@ Bienvenue à la documentation de l'Extraction de Texte à partir de Factures Fra
    :caption: Table des matières:
 
    Documentation/1_Introduction.rst
-   Scripts/2_Equipe.rst
-   Scripts/3_Démarche1.rst
-   Scripts/4_Limitations_démarche1.rst
-   Scripts/5_Démarche2.rst
-   Scripts/6_Fine_tuning.rst
-   Scripts/7_Django.rst
-   Scripts/8_Etapes_réalisation.rst
+   Documentation/2_Equipe.rst
+   Documentation/3_Démarche1.rst
+   Documentation/4_Limitations_démarche1.rst
+   Documentation/5_Démarche2.rst
+   Documentation/6_Fine_tuning.rst
+   Documentation/7_Django.rst
+   Documentation/8_Etapes_réalisation.rst
 
