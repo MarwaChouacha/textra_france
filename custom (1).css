@@ -1,0 +1,16 @@
+/* Changer la couleur principale (barre d'en-tête, liens, etc.) en rose */
+.wy-side-nav-search, .wy-nav-top {
+    background-color: #e91eba; /* Rose vif */
+}
+
+a, a:visited {
+    color: #e91e63; /* Couleur des liens en rose */
+}
+
+a:hover {
+    color: #bc1bd8; /* Rose légèrement plus foncé au survol */
+}
+
+.wy-menu-vertical a:hover {
+    background-color: #f5bbf8; /* Rose pâle pour l'arrière-plan au survol */
+}
