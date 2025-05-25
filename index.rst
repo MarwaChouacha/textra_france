@@ -13,7 +13,7 @@ Bienvenue à la documentation de l'Extraction de Texte à partir de Factures Fra
    Scripts/1_Introduction
    Scripts/2_Equipe
    Scripts/3_Demarche1
-   Scripts/4_Limitations_démarche1
+   Scripts/4_Limitations_demarche1
    Scripts/5_Demarche2
    Scripts/6_Fine_tuning
    Scripts/7_Django
