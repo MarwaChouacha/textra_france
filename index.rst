@@ -10,12 +10,12 @@ Bienvenue à la documentation de l'Extraction de Texte à partir de Factures Fra
    :maxdepth: 8
    :caption: Table des matières:
 
-   Documentation_final/1_Introduction.rst
-   Documentation_final/2_Equipe.rst
-   Documentation_final/3_Démarche1.rst
-   Documentation_final/4_Limitations_démarche1.rst
-   Documentation_final/5_Démarche2.rst
-   Documentation_final/6_Fine_tuning.rst
-   Documentation_final/7_Django.rst
-   Documentation_final/8_Etapes_réalisation.rst
+   Documentation/1_Introduction.rst
+   Documentation/2_Equipe.rst
+   Documentation/3_Démarche1.rst
+   Documentation/4_Limitations_démarche1.rst
+   Documentation/5_Démarche2.rst
+   Documentation/6_Fine_tuning.rst
+   Documentation/7_Django.rst
+   Documentation/8_Etapes_réalisation.rst
 
