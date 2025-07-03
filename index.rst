@@ -1,11 +1,6 @@
 Bienvenue à la documentation de l'Extraction de Texte à partir de Factures Françaises
 ====================================================================================
 
-.. figure:: Images/LOGO.png
-   :width: 80%
-   :align: center
-   :alt: Logo du projet
-
 .. toctree::
    :maxdepth: 8
    :caption: Table des matières:
