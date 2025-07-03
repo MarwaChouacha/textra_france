@@ -1,0 +1,102 @@
+
+body,html{
+    height: 100%;
+    margin:0;
+    padding: 0;
+}
+.dx-datagrid-headers{
+    background-color: #fcfcfc;
+    color:#985184
+}
+#facture_div{
+    padding: 5px;
+    margin: auto;
+    border: 1px solid #eeeeee;
+    padding: 0 10px;
+}
+#content{
+    height:  inherit;
+    /* background-color: red; */
+    
+}
+#menu{
+    height: 70px ;
+    width:100%;
+    border-bottom: 1px solid #e4e4e4;
+    background-color: #272727;
+    box-shadow: 1px 0px 1px #eeeeee;
+    color :white;
+    display: flex;
+    
+}
+#menu h2{
+    margin: auto;
+    /* font-size: 20px; */
+    color:orange
+}
+.dx-list-item-content{
+    color :#333
+}
+.dx-list:not(.dx-list-select-decorator-enabled) .dx-list-item .dx-icon{
+    color :#985184
+}
+.dx-datagrid .dx-row-alt > td{
+    background-color: #1ad3ba13
+}
+.dx-icon-trash{
+    color:rgb(255, 38, 0) !important
+}
+
+.dx-icon-edit{
+    color :rgb(234, 165, 35) !important
+}
+#report {
+    margin: 20px;
+  }
+
+  .flex-row {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+
+  .box {
+    flex: 1;
+    /* padding: 20px; */
+    /* background-color: #e0e0e0; */
+    border: 1px solid #ccc;
+    text-align: center;
+  }
+
+  .graph {
+    height:300px
+  }
+  .first,.second,.third{
+    height: 100px;
+    text-transform: uppercase;
+    
+  }
+  .first{
+    background-color: black;
+    color:white
+  }
+  .second{
+    background-color: rgb(243, 243, 243);
+    color:rgb(27, 27, 27)
+  }
+  .third{
+    background-color: #1ad33f2c;
+  }
+  #ttc{
+    color:orange;
+    font-size: 20px;
+  }
+  #tva{
+    color :#985184;
+    font-size: 20px;
+  }
+  #fact{
+    color :#d31a70;
+    font-size: 25px;
+    margin-top: 0;
+  }
