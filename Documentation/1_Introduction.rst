@@ -15,14 +15,6 @@ Les objectifs principaux de ce projet sont les suivants :
 
 **Automatiser le processus** : L'automatisation permettra de réduire les erreurs humaines et d'améliorer l'efficacité et la productivité des équipes comptables, tout en assurant une meilleure traçabilité des données.
 
-Le pipeline utilisée est:
-
-.. figure:: /Documentation/Images/pipeline.jpg
-    :width: 100%
-    :align: center
-    :alt: Alternative text for the image
-    :name: Introduction
-
 **Technologies utilisées**
 
 Pour atteindre ces objectifs, plusieurs technologies sont utilisées dans le cadre de ce projet :
