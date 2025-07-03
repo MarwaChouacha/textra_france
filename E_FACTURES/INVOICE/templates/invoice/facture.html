@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+
+
+
+{% block content %}
+    <div id ="content">
+        <div id ="menu">
+            <img  src="./static/images/icon.svg" alt="Logo" id="logo" style="height: 50px; margin:10px">
+            <h2 class="item-menu">Gestion Électronique de Factures</h2>
+        </div>
+        <div id="toolbar"></div>
+        <div id="drawer">
+            <div id="content-drawer">
+                <div id='facture_div'></div>
+                <div id='report'>
+                    <div class="flex-row">
+                        <div class="box first"><h4>Cumulative TTC</h4><p id='ttc'></p></div>
+                        <div class="box second"><h4>Cumulative Tva</h4><p id='tva'></p></div>
+                        <div class="box third"><h4>Nombre de factures</h4><p id='fact'></p></div>
+                    </div>
+
+                    <!-- Deuxième bloc : 2 colonnes -->
+                    <div class="flex-row">
+                        <div class="box graph">
+                            <div id="chart1"></div>
+                        </div>
+                        <div class="box graph">
+                            <div id="chart2"></div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+    <div id='uploadPopup'></div> 
+    <div id="popup_view_pdf"></div>
+{% endblock %}
