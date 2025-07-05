@@ -70,16 +70,16 @@ def evaluer_classification(y_true, y_pred):
     print(report)
 
 
-# app_demarche1.py (interface Streamlit)
+ app_demarche1.py (interface Streamlit)
 import streamlit as st
 
-# Fonctions à implémenter ailleurs
+Fonctions à implémenter ailleurs
 def ocr_extraction(uploaded_file):
-    # Extraction OCR à implémenter (ex: Tesseract ou autre)
+     Extraction OCR à implémenter (ex: Tesseract ou autre)
     return "texte extrait de la facture"
 
 def extraction_llm_qwen(texte):
-    # Appel au LLM Qwen2.5 avec prompt_extraction_qwen et parsing JSON réponse
+     Appel au LLM Qwen2.5 avec prompt_extraction_qwen et parsing JSON réponse
     return {
     "Numéro facture": "F12345",
     "Date": "2025-05-23",
@@ -91,7 +91,7 @@ def extraction_llm_qwen(texte):
     }
 
 def classification_llm_llama(entites):
-    # Appel au LLM LLaMA3.1 avec prompt_classification_llama et récupération compte
+     Appel au LLM LLaMA3.1 avec prompt_classification_llama et récupération compte
     return "606 - Achats fournisseurs"
 
 uploaded_file = st.file_uploader("Importer une facture", type=["png", "jpg", "pdf"])
