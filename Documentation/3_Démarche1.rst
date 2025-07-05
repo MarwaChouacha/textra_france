@@ -1,5 +1,8 @@
 Démarche 1 : Extraction et classification comptable via LLMs
 =============================================================
+.. image:: Images/pip1.png
+   :width: 400
+   :alt: Pipeline
 
 Objectif
 --------
