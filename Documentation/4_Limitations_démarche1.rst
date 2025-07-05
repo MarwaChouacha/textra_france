@@ -29,6 +29,9 @@ Tests sur les factures françaises et canadiennes
 
 Test 1 – Facture Française
 --------------------------
+.. image:: Images/pip4.png
+   :width: 400
+   :alt: Pipeline 4
 
 **Contenu brut de la facture OCR** (extrait) :
 
@@ -68,6 +71,9 @@ Test 1 – Facture Française
 
 Test 2 – Facture Canadienne
 ---------------------------
+.. image:: Images/pip5.png
+   :width: 400
+   :alt: Pipeline 5
 
 **Contenu brut de la facture OCR** (extrait) :
 
