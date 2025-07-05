@@ -2,7 +2,7 @@ Démarche 2 : Extraction et Classification Comptable des Factures
 ================================================================
 .. image:: Images/pip2.png
    :width: 400
-   :alt: Pipeline 2
+   :alt: Pipeline complet
 
 
 Cette démarche présente les étapes détaillées de l'extraction de texte à partir de factures
