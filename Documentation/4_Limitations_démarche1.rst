@@ -37,26 +37,27 @@ Test 1 – Facture Française
 
 ::
 
-    Facture n°: F2024-036
-    Date: 12/03/2024
-    Client: SARL Électro France
-    Montant HT: 1250.00 €
-    TVA: 250.00 €
-    Total TTC: 1500.00 €
-    Libellé: Achat de matériel informatique
+    Facture n°: FR-001
+    Date: 29/01/2019
+    Client: Cendrillon Ayot
+    Montant HT: 145.00 €
+    TVA: 29.00 €
+    Total TTC: 174.00 €
+    Libellé: Grand brun escargot pour manger et Petit mariniere uniforme en bleuet Facile a jouer accordeon
 
 **Entités extraites (via Qwen2.5)** :
 
 .. code-block:: json
 
     {
-        "numero_facture": "F2024-036",
-        "date": "12/03/2024",
-        "client": "SARL Électro France",
-        "montant_ht": 1250.00,
-        "tva": 250.00,
-        "total_ttc": 1500.00,
-        "libelle": "Achat de matériel informatique"
+        "numero_facture": "FR-001",
+        "date": " 29/01/2019",
+        "client": "Cendrillon Ayot",
+        "montant_ht": 145.00 €,
+        "tva": 29.00 €,
+        "total_ttc": 174.00 €,
+        "libelle": "Grand brun escargot pour manger et Petit mariniere uniforme en bleuet Facile a jouer accordeon
+"
     }
 
 **Compte prédit (via LLaMA3.1)** :
